@@ -28,12 +28,12 @@ body {
 }
 
 .left-screen {
-	background-image: url('https://images.unsplash.com/photo-1432821596592-e2c18b78144f?fit=crop&fm=jpg&h=650&q=80&w=1375');
+	background-image: url('desk.png');
 }
 
 .right-screen {
 	/*background-image: url('https://unsplash.com/photos/ssrbaKvxaos');*/
-	background-image: url('https://images.unsplash.com/photo-1415065063214-b36374daf153?fit=crop&fm=jpg&h=650&q=80&w=1375');
+	background-image: url('beer.png');
 }
 
 .table-display {
